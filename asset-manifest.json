@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://fangxiaokui.github.io/csb-p83v5/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://fangxiaokui.github.io/csb-p83v5/static/js/main.9e4359bf.chunk.js",
+    "main.js.map": "https://fangxiaokui.github.io/csb-p83v5/static/js/main.9e4359bf.chunk.js.map",
+    "runtime-main.js": "https://fangxiaokui.github.io/csb-p83v5/static/js/runtime-main.a7ff72a2.js",
+    "runtime-main.js.map": "https://fangxiaokui.github.io/csb-p83v5/static/js/runtime-main.a7ff72a2.js.map",
+    "static/css/2.a95be28f.chunk.css": "https://fangxiaokui.github.io/csb-p83v5/static/css/2.a95be28f.chunk.css",
+    "static/js/2.c1bca2a7.chunk.js": "https://fangxiaokui.github.io/csb-p83v5/static/js/2.c1bca2a7.chunk.js",
+    "static/js/2.c1bca2a7.chunk.js.map": "https://fangxiaokui.github.io/csb-p83v5/static/js/2.c1bca2a7.chunk.js.map",
+    "static/js/3.26a22401.chunk.js": "https://fangxiaokui.github.io/csb-p83v5/static/js/3.26a22401.chunk.js",
+    "static/js/3.26a22401.chunk.js.map": "https://fangxiaokui.github.io/csb-p83v5/static/js/3.26a22401.chunk.js.map",
+    "index.html": "https://fangxiaokui.github.io/csb-p83v5/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "https://fangxiaokui.github.io/csb-p83v5/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "https://fangxiaokui.github.io/csb-p83v5/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c1bca2a7.chunk.js.LICENSE.txt": "https://fangxiaokui.github.io/csb-p83v5/static/js/2.c1bca2a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7ff72a2.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.c1bca2a7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9e4359bf.chunk.js"
+  ]
+}
